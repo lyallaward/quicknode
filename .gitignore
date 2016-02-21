@@ -1,0 +1,7 @@
+data/*
+log/*
+node_modules/*
+data-initiator/*
+log-initiator/*
+.idea/*
+npm-debug.log
